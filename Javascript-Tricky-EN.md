@@ -477,4 +477,4 @@ In this example when we call `Object.freeze()` and give `object1` as an argument
 This example shows that the properties of nested objects (and other by reference data structures) are **still mutable**. So `Object.freeze()` doesn't fully 'freeze' the object when it has properties which are references (to e.g. Arrays, Objects).
 
 
-Source: 
+Source: [Rohan Paul](https://github.com/rohan-paul)
