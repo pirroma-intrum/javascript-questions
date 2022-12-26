@@ -4,7 +4,7 @@ Welcome to our guide on internal JavaScript interview questions for external pro
 
 ## How to use this guide?
 
-Go to the questions [file](https://pip.pypa.io/en/stable/) to read and learn about each answer developers from a external provider must give you.
+Go to the questions [file](https://github.com/pirroma-intrum/javascript-questions/blob/master/Javascript-Tricky-EN.md) to read and learn about each answer developers from a external provider must give you.
 
 Here's an example:
 
